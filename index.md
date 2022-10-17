@@ -1,7 +1,5 @@
 ---
-Title: GitHub Page Demo
-Description: An internal siste to host project blogs, documentation, resumes, portfolios or any other static conent
-Auther: James Chen
-
+title: GitHub Page Demo
+date: 2022-10-16
 ---
 
