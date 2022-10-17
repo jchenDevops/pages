@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: GitHub Page Demo
+date: 2022-10-16
 ---
 
